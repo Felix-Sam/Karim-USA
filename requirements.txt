@@ -1,6 +1,4 @@
 tensorflow
 streamlit
 pillow 
-cvzone
 numpy
-opencv-python
