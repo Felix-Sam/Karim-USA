@@ -6,7 +6,7 @@ import streamlit as st
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
 # Load the model
-model = load_model("keras_modelv3.h5", compile=False)
+model = load_model("keras_modelv4.h5", compile=False)
 # Load the labels
 class_names = open("labels.txt", "r").readlines()
 
